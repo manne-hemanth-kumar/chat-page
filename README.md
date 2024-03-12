@@ -16,4 +16,8 @@ Technologies Used
 HTML
 CSS
 Bootstrap
-to download into your local machine : github.com/manne-hemanth-kumar/chat-page
+
+## run
+steps to run on your local mahine: git clone https://github.com/manne-hemanth-kumar/chat-page.git
+
+
